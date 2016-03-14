@@ -1,0 +1,10 @@
+G:\Omini\AgilentPhase3\Utility\CheckSumVerifier\CheckSumVerifier\bin\Debug\CheckSumVerifier.exe.config
+G:\Omini\AgilentPhase3\Utility\CheckSumVerifier\CheckSumVerifier\obj\Debug\CheckSumVerifier.csprojResolveAssemblyReference.cache
+G:\Omini\AgilentPhase3\Utility\CheckSumVerifier\CheckSumVerifier\obj\Debug\CheckSumVerifier.FilecheckSumVerifier.resources
+G:\Omini\AgilentPhase3\Utility\CheckSumVerifier\CheckSumVerifier\obj\Debug\CheckSumVerifier.Properties.Resources.resources
+G:\Omini\AgilentPhase3\Utility\CheckSumVerifier\CheckSumVerifier\obj\Debug\CheckSumVerifier.csproj.GenerateResource.Cache
+G:\Omini\AgilentPhase3\Utility\CheckSumVerifier\CheckSumVerifier\bin\Debug\CheckSumVerifier.exe
+G:\Omini\AgilentPhase3\Utility\CheckSumVerifier\CheckSumVerifier\bin\Debug\CheckSumVerifier.pdb
+G:\Omini\AgilentPhase3\Utility\CheckSumVerifier\CheckSumVerifier\obj\Debug\CheckSumVerifier.exe
+G:\Omini\AgilentPhase3\Utility\CheckSumVerifier\CheckSumVerifier\obj\Debug\CheckSumVerifier.pdb
+G:\Omini\AgilentPhase3\Utility\CheckSumVerifier\CheckSumVerifier\bin\Debug\DocumentFormat.OpenXml.dll
